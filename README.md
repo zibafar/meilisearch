@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Welcome to Faryan Company! This tool simplifies the search in moodle database.
+Welcome  This tool simplifies the search in moodle database.
 Meilisearch is a RESTful search API in moodle. It aims to be a ready-to-go solution for everyone who wants a fast and relevant search experience for their end-users ⚡️🔎
 ## Features
 
@@ -32,7 +32,7 @@ Meilisearch is a RESTful search API in moodle. It aims to be a ready-to-go solut
 1. Clone this repository:
 
 ```bash
-git clone https://git.faryanic.ir/scm/mehr/moodle-meilisearch.git
+
 ```
 
 2. Install the required dependencies in dockerfile:
